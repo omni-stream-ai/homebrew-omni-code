@@ -1,8 +1,8 @@
 cask "omni-code" do
-  version "0.6.1"
-  sha256 "19d3802d9b08b1fae77fb425f5b4590c8a1f704ec924b289739d33208e71a1ff"
+  version "0.7.0"
+  sha256 "ace6831f803a6f5b249a1f237f024b49a21aa5ba3cc89dd38db40f2fe30d8f0a"
 
-  url "https://github.com/omni-stream-ai/omni-code/releases/download/v0.6.1/omni-code-macos-arm64.zip",
+  url "https://github.com/omni-stream-ai/omni-code/releases/download/v0.7.0/omni-code-macos-arm64.zip",
       verified: "github.com/omni-stream-ai/omni-code/"
   name "Omni Code"
   desc "Flutter client for desktop Omni Code agent sessions"
